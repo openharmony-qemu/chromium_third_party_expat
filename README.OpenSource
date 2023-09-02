@@ -1,0 +1,10 @@
+[
+    {
+        "Name": "chromium_third_party_expat",                   # 上游开源软件名全称
+        "License": "GPL-3.0+","earlier","Scott Bronson"          # 上游开源软件中包含的许可证信息
+        "License File":  "GPL-3.0+","earlier","Scott Bronson"     # 许可证所在文件路径
+        "Version Number": "a28238bdeebc087071777001245df1876a11f5ee",
+        "Upstream URL": "https://chromium.googlesource.com/external/github.com/libexpat/libexpat.git@a28238bdeebc087071777001245df1876a11f5ee",   # 上游软件包发布地址
+        "Description": "第三方软件expat"           # 开源软件功能描述
+    }
+]
