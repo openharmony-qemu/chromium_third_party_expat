@@ -6,6 +6,6 @@
         "Version Number": "a28238bdeebc087071777001245df1876a11f5ee",
         "Owner": "huangjiewen2@huawei.com",
         "Upstream URL": "https://chromium.googlesource.com/external/github.com/libexpat/libexpat.git@a28238bdeebc087071777001245df1876a11f5ee",
-        "Description": "第三方软件expat"
+        "Description": "第三方软件expat,解析XML文档的开发库"
     }
 ]
