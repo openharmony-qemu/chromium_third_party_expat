@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "libexpat",
+        "License":"MIT",
+        "License File":"expat/COPYING",
+        "Version Number": "624da0f593bb8d7e146b9f42b06d8e6c80d032a3",
+        "Owner": "huamengzheng@huawei.com",
+        "Upstream URL": "https://chromium.googlesource.com/external/github.com/libexpat/libexpat.git@624da0f593bb8d7e146b9f42b06d8e6c80d032a3",
+        "Description": "第三方软件expat,解析XML文档的开发库"
+    }
+]
